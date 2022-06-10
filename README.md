@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TayyabBhatti74
+- 👋 Hi, I’m Muhammad Tayyab
 - 👀 I’m interested in Android Development 
 - 🌱 I’m currently learning Java/Kotlin
 - 💞️ I’m looking to collaborate on Application Developers
