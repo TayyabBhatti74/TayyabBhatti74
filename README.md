@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Tayyab
-- 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning Java/Kotlin
+- 👀 I’m interested in Mobile Development 
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Application Developers
 - 📫 How to reach me @TayyabBhatti74
 
